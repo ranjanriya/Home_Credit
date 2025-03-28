@@ -140,4 +140,4 @@ Outputs:
 
 ## 📬 Contact
 
-For any queries or discussions, feel free to open an issue or connect via [LinkedIn](https://www.linkedin.com/in/riya-ranjan).
+For any queries or discussions, feel free to open an issue or connect via [LinkedIn](https://www.linkedin.com/in/ranjanriya/).
