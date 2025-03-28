@@ -1,5 +1,5 @@
 
-# 🏦 Home Credit - Credit Risk Model Stability
+# 🏦 [Home Credit - Credit Risk Model Stability](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/overview)
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-Competition-blue)
 
@@ -24,7 +24,7 @@ Where:
 
 ---
 
-## 📁 Dataset Description
+## 📁 [Dataset Description & Download](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/data)
 
 The dataset contains information about credit applicants, derived from both **internal sources** (e.g., applications, bank records) and **external data providers** (e.g., tax registry, credit bureaus).
 
@@ -118,3 +118,26 @@ Open `home-credit-lgb-cat-ensemble.ipynb` and run all cells
 Outputs:
 - `submission.csv` – submission file containing `case_id,score`
 - Evaluation charts for weekly Gini scores
+
+---
+
+## 🏆 Stability Prize Compliance
+
+✅ Top 20% readiness  
+✅ General strategy (loss-agnostic, not dataset-specific)  
+✅ Stability-aware model training  
+✅ Public kernel-ready notebook
+
+---
+
+## 🤝 Acknowledgements
+
+- Home Credit for hosting the competition
+- Kaggle community for valuable discussions and insights
+- LightGBM and CatBoost open-source contributors
+
+---
+
+## 📬 Contact
+
+For any queries or discussions, feel free to open an issue or connect via [LinkedIn](https://www.linkedin.com/in/riya-ranjan).
